@@ -1,0 +1,68 @@
+.body{
+    background-color: black;
+}
+.poster{
+    width=100%;
+    text-transform: uppercase;
+    margin-top:50px;
+    margin-left:-2%;
+    text-align: center;
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.postername{
+    background-color:darkkhaki;
+}
+.logo{
+    margin-left: -76%;
+
+}
+
+
+.first{
+    font-size:large;
+    margin-top:-6%; 
+}
+.Aboutus{
+    width=50%;
+    margin-left:0%;
+    
+    text-align: center;
+    font-family:'Prata', serif;
+    font-weight: 1000;
+}
+.contact-link{
+   margin-left: 88%;
+   color: blue;
+
+   font-weight:1000;
+}
+.directions-link{
+    color: blue;
+    font-weight:1000;
+    
+}
+.logoimag{
+    margin-left:42%;
+    height: 200px;
+}
+
+.vegpara{
+    
+    margin-left:49%;
+}
+.nonveg{
+    font-family: 'Bakbak One', sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+.veg{
+    font-family: 'Bakbak One', sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+.letsorder{
+    font-size:xx-large;
+    text-align: center;
+    
+}
